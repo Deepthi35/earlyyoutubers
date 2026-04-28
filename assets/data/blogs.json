@@ -1,0 +1,143 @@
+{
+  "posts": [
+    {
+      "slug": "first-30-videos-plan",
+      "title": "First 30 videos plan: publish without burnout",
+      "category": "YouTube Growth",
+      "readTime": "6 min read",
+      "date": "2026-04-01",
+      "excerpt": "Use a practical 3-day cycle and weekly batching system to publish consistently without burning out.",
+      "searchText": "first 30 videos beginner youtuber schedule consistency batch workflow",
+      "tags": ["Beginner", "Workflow", "Consistency"],
+      "ctaLabel": "Get weekly planning help",
+      "ctaLink": "./community.html#join",
+      "content": [
+        "If you are just starting, don't plan monthly content in one go. Plan one week at a time and repeat a simple cycle.",
+        "Use this 3-day publishing cycle: Day 1 research + outline, Day 2 filming, Day 3 editing + upload. Keep this repeatable.",
+        "Every Sunday, batch two scripts. This reduces decision fatigue and helps you stay on track when life gets busy."
+      ],
+      "actionSteps": [
+        "Choose one content pillar for this week.",
+        "Create 3 video ideas under that pillar.",
+        "Write hooks for all 3 before filming.",
+        "Film in one session, edit in focused blocks."
+      ]
+    },
+    {
+      "slug": "travel-vlog-hook-formula",
+      "title": "Travel vlog hook formula that improves retention",
+      "category": "Travel Content",
+      "readTime": "5 min read",
+      "date": "2026-04-04",
+      "excerpt": "Open with result, add conflict, then context. Keep intros short so viewers stay longer.",
+      "searchText": "travel vlog hook retention first 30 seconds storytelling youtube watch time",
+      "tags": ["Travel", "Retention", "Storytelling"],
+      "ctaLabel": "Share your intro for feedback",
+      "ctaLink": "./community.html#join",
+      "content": [
+        "Most travel vlogs lose viewers in the first 20 seconds because the intro takes too long.",
+        "Use this sequence: final outcome in first 7 seconds, one problem to solve, then where and why this video matters.",
+        "Cut all filler intros. Your audience should know exactly what they will gain in under 25 seconds."
+      ],
+      "actionSteps": [
+        "Write a 1-line outcome promise.",
+        "Add one tension line (challenge/conflict).",
+        "Limit intro to 3 short clips max.",
+        "Test retention after publishing and adjust next video."
+      ]
+    },
+    {
+      "slug": "weekly-analytics-check",
+      "title": "Analytics check every beginner should do weekly",
+      "category": "Analytics",
+      "readTime": "4 min read",
+      "date": "2026-04-08",
+      "excerpt": "Track only CTR, average view duration, and returning viewers to improve faster with less confusion.",
+      "searchText": "analytics ctr avd returning viewers beginner youtube dashboard weekly",
+      "tags": ["Analytics", "CTR", "AVD"],
+      "ctaLabel": "Request analytics checklist",
+      "ctaLink": "./contact.html",
+      "content": [
+        "Many new creators check too many metrics and end up overwhelmed.",
+        "Focus on three numbers: CTR, average view duration, and returning viewers. These tell you if packaging and content are improving.",
+        "Pick one weak metric each week and optimize only that. Small focused improvements compound faster."
+      ],
+      "actionSteps": [
+        "Set a fixed weekly analytics review day.",
+        "Write one improvement action from your data.",
+        "Apply that action in your next upload.",
+        "Compare performance after 7 days."
+      ]
+    },
+    {
+      "slug": "youtube-seo-2026-basics",
+      "title": "YouTube SEO starter stack that still works in 2026",
+      "category": "SEO Basics",
+      "readTime": "7 min read",
+      "date": "2026-04-12",
+      "excerpt": "Use search-intent titles, clear thumbnail promise, and focused first lines in descriptions.",
+      "searchText": "youtube seo 2026 title thumbnail description keyword search intent",
+      "tags": ["SEO", "Titles", "Thumbnails"],
+      "ctaLabel": "Get title + thumbnail review",
+      "ctaLink": "./community.html#join",
+      "content": [
+        "SEO starts before upload. If your topic has no demand, optimization won't save it.",
+        "Write titles matching what viewers search. Your thumbnail should add curiosity, not repeat title words.",
+        "Use your primary keyword naturally in the first 120 characters of description and include context-rich supporting keywords."
+      ],
+      "actionSteps": [
+        "Research 5 competing videos for your topic.",
+        "Draft 3 title options before finalizing.",
+        "Design thumbnail for one clear promise.",
+        "Review CTR after 48 hours."
+      ]
+    },
+    {
+      "slug": "collab-outreach-that-gets-replies",
+      "title": "Collab outreach message that gets replies",
+      "category": "Networking",
+      "readTime": "3 min read",
+      "date": "2026-04-16",
+      "excerpt": "Use a short 4-part outreach format that feels clear, professional, and easy to respond to.",
+      "searchText": "collaboration outreach template creators networking partnerships youtube",
+      "tags": ["Collabs", "Networking", "Outreach"],
+      "ctaLabel": "Get outreach template",
+      "ctaLink": "./contact.html",
+      "content": [
+        "Creators ignore generic collaboration DMs because they are vague.",
+        "Use this 4-part message: who you are, shared audience fit, one specific idea, and exact next step.",
+        "Always include your suggested publish timeline. Clear proposals get faster replies."
+      ],
+      "actionSteps": [
+        "Personalize first line for each creator.",
+        "Keep total message under 120 words.",
+        "Suggest one specific video angle.",
+        "Follow up once after 5 days."
+      ]
+    },
+    {
+      "slug": "shorts-to-long-form-loop",
+      "title": "Shorts to long-form strategy for faster channel growth",
+      "category": "Content Strategy",
+      "readTime": "4 min read",
+      "date": "2026-04-20",
+      "excerpt": "Repurpose one long video into three Shorts and funnel viewers back to your full content.",
+      "searchText": "shorts long form strategy repurpose content growth youtube",
+      "tags": ["Shorts", "Long-form", "Repurposing"],
+      "ctaLabel": "Join Now",
+      "ctaLink": "./community.html#join",
+      "content": [
+        "Shorts can increase discovery, but they should feed your long-form system.",
+        "Repurpose each long video into three Shorts: hook clip, lesson clip, and transformation/result clip.",
+        "Use pinned comments and end screens to redirect viewers to your full video for deeper watch time."
+      ],
+      "actionSteps": [
+        "Mark strong 20-35 second moments while editing.",
+        "Create 3 Shorts with different hooks.",
+        "Link each Short to one long-form video.",
+        "Track conversion from Shorts to long-form views."
+      ]
+    }
+  ]
+}
+
